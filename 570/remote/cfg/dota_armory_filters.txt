@@ -1,0 +1,87 @@
+"ArmoryFilters"
+{
+	"gems"
+	{
+		"1"
+		{
+			"Field"		"Sockets"
+			"Op"		">"
+			"Value"		"0"
+		}
+	}
+	"2"
+	{
+		"1"
+		{
+			"Field"		"Duplicate"
+			"Op"		"="
+			"Value"		"0"
+		}
+		"2"
+		{
+			"Field"		"RarityBitfield"
+			"Op"		"="
+			"Value"		"128"
+		}
+	}
+	"к"
+	{
+		"1"
+		{
+			"Field"		"Bundle"
+			"Op"		"="
+			"Value"		"1"
+		}
+	}
+	"55"
+	{
+		"1"
+		{
+			"Field"		"Bundle"
+			"Op"		"="
+			"Value"		"1"
+		}
+	}
+	"1"
+	{
+		"1"
+		{
+			"Field"		"RarityBitfield"
+			"Op"		"="
+			"Value"		"128"
+		}
+	}
+	"АРКАНА"
+	{
+		"1"
+		{
+			"Field"		"RarityBitfield"
+			"Op"		"="
+			"Value"		"256"
+		}
+	}
+	"IMMORTAL"
+	{
+		"1"
+		{
+			"Field"		"RarityBitfield"
+			"Op"		"="
+			"Value"		"160"
+		}
+	}
+	"set"
+	{
+		"1"
+		{
+			"Field"		"Duplicate"
+			"Op"		"="
+			"Value"		"1"
+		}
+		"2"
+		{
+			"Field"		"Bundle"
+			"Op"		"="
+			"Value"		"1"
+		}
+	}
+}

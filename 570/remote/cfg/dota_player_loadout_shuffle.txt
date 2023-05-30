@@ -1,0 +1,84 @@
+"PlayerLoadoutShuffle"
+{
+	"announcer"
+	{
+		"0"		"0x000000034E873C1E"
+	}
+	"mega_kills"
+	{
+		"0"		"0x0000000367F0C8AC"
+	}
+	"courier"
+	{
+		"0"		"0x0000000283CFF542"
+	}
+	"music"
+	{
+		"0"		"0x00000003ACF8DA02"
+	}
+	"ward"
+	{
+		"0"		"0x0000000315DE078C"
+	}
+	"hud_skin"
+	{
+		"0"		"0x00000001FFB6E9F7"
+	}
+	"loading_screen"
+	{
+		"0"		"0x000000045D9801C4"
+	}
+	"weather"
+	{
+		"0"		"0x0000000000000000"
+		"1"		"0x000000020B940AA8"
+		"2"		"0x00000000E32C64F6"
+		"3"		"0x00000001FFB6E9C3"
+		"4"		"0x00000000E3218DFC"
+		"5"		"0x00000001B6FE7A50"
+		"6"		"0x0000000229493409"
+	}
+	"heroic_statue"
+	{
+		"0"		"0x000000022A599FF1"
+	}
+	"multikill_banner"
+	{
+		"0"		"0x000000021AA385B0"
+	}
+	"cursor_pack"
+	{
+		"0"		"0x0000000315DE0778"
+	}
+	"terrain"
+	{
+		"0"		"0x000000032E4DBD84"
+		"1"		"0x00000003BAA1101A"
+	}
+	"radiant_creeps"
+	{
+		"0"		"0x000000032E4E0D72"
+	}
+	"dire_creeps"
+	{
+		"0"		"0x000000032E4E0D46"
+	}
+	"radiant_towers"
+	{
+		"0"		"0x00000003C5AA0572"
+	}
+	"dire_towers"
+	{
+		"0"		"0x00000003C5AA05B0"
+	}
+	"versus_screen"
+	{
+		"0"		"0x00000003AD01F14C"
+		"1"		"0x00000003C5A97476"
+		"2"		"0x000000044EDEFEFC"
+	}
+	"streak_effect"
+	{
+		"0"		"0x000000044EDEFEE4"
+	}
+}

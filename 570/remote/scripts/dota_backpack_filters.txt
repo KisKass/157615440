@@ -1,0 +1,115 @@
+"BackpackFilters"
+{
+	"#DOTA_DefaultFilter_Rares"
+	{
+		"sort_type"		"5"
+		"name"		"#DOTA_DefaultFilter_Rares"
+		"rules"
+		{
+			"0"
+			{
+				"field"		"1"
+				"operator"		"4"
+				"value"		"2"
+				"pattern"		"0"
+				"pattern_type"		"0"
+				"expression"		""
+			}
+		}
+	}
+	"#DOTA_DefaultFilter_Couriers"
+	{
+		"sort_type"		"5"
+		"name"		"#DOTA_DefaultFilter_Couriers"
+		"rules"
+		{
+			"0"
+			{
+				"field"		"2"
+				"operator"		"0"
+				"value"		"7"
+				"pattern"		"0"
+				"pattern_type"		"0"
+				"expression"		""
+			}
+		}
+	}
+	"#DOTA_DefaultFilter_HUDs"
+	{
+		"sort_type"		"5"
+		"name"		"#DOTA_DefaultFilter_HUDs"
+		"rules"
+		{
+			"0"
+			{
+				"field"		"2"
+				"operator"		"0"
+				"value"		"9"
+				"pattern"		"0"
+				"pattern_type"		"0"
+				"expression"		""
+			}
+		}
+	}
+	"#DOTA_DefaultFilter_Wards"
+	{
+		"sort_type"		"5"
+		"name"		"#DOTA_DefaultFilter_Wards"
+		"rules"
+		{
+			"0"
+			{
+				"field"		"2"
+				"operator"		"0"
+				"value"		"8"
+				"pattern"		"0"
+				"pattern_type"		"0"
+				"expression"		""
+			}
+		}
+	}
+	"#DOTA_DefaultFilter_Keys"
+	{
+		"sort_type"		"4"
+		"name"		"#DOTA_DefaultFilter_Keys"
+		"rules"
+		{
+			"0"
+			{
+				"field"		"2"
+				"operator"		"0"
+				"value"		"11"
+				"pattern"		"0"
+				"pattern_type"		"0"
+				"expression"		""
+			}
+			"1"
+			{
+				"field"		"2"
+				"operator"		"0"
+				"value"		"17"
+				"pattern"		"0"
+				"pattern_type"		"0"
+				"expression"		""
+			}
+		}
+	}
+	"по редкости"
+	{
+		"sort_type"		"1"
+		"name"		"по редкости"
+		"rules"
+		{
+			"0"
+			{
+				"field"		"1"
+				"operator"		"3"
+				"value"		"7"
+				"pattern"		"0"
+				"pattern_type"		"0"
+				"expression"		""
+			}
+		}
+	}
+	"perfect_world_version"		"1"
+}

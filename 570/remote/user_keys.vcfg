@@ -1,0 +1,14 @@
+"config"
+{
+	"bindings"
+	{
+		"\"		"toggleconsole"
+		"F10"		"<unbound>"
+		"F11"		"disconnect"
+		"]"		"' say refresh '"
+		"2"		"+_7b1dbd_2"
+		"d"		"dota_ability_execute 17"
+		"f"		"dota_ability_execute 18"
+		"3"		"+_c40dbe_3"
+	}
+}

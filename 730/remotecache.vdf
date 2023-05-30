@@ -1,0 +1,29 @@
+"730"
+{
+	"ChangeNumber"		"-4997634367224870157"
+	"ostype"		"16"
+	"cfg/csgo_saved_item_shuffles.txt"
+	{
+		"root"		"0"
+		"size"		"166"
+		"localtime"		"1593724037"
+		"time"		"1593724037"
+		"remotetime"		"1593724037"
+		"sha"		"85bb8a6cf5fb69cb1447f1ee809cc2930f0b5b23"
+		"syncstate"		"1"
+		"persiststate"		"0"
+		"platformstosync2"		"-1"
+	}
+	"item_clientacks.txt"
+	{
+		"root"		"0"
+		"size"		"39"
+		"localtime"		"1432371820"
+		"time"		"1432371821"
+		"remotetime"		"1432371821"
+		"sha"		"46ad4ac3d49cd8dc430282691ae0bf8a82f48272"
+		"syncstate"		"1"
+		"persiststate"		"0"
+		"platformstosync2"		"-1"
+	}
+}

@@ -1,0 +1,9 @@
+"upconversionInfo"
+{
+	"upconverted"
+	{
+		"hero_986339990.build"		"1"
+		"hero_986380706.build"		"1"
+		"hero_986417458.build"		"1"
+	}
+}

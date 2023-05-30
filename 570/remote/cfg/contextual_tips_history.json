@@ -1,0 +1,45 @@
+{
+	"version": 1,
+	"history":
+	[
+		{
+			"tip_id": 2,
+			"display_count": 1,
+			"variants_seen": null
+		},
+		{
+			"tip_id": 4,
+			"display_count": 1,
+			"variants_seen": null
+		},
+		{
+			"tip_id": 6,
+			"display_count": 1,
+			"variants_seen":
+			[
+				6300048
+			]
+		},
+		{
+			"tip_id": 7,
+			"display_count": 4,
+			"variants_seen":
+			[
+				5049,
+				5144,
+				5385,
+				5287
+			]
+		},
+		{
+			"tip_id": 10,
+			"display_count": 6,
+			"variants_seen": null
+		},
+		{
+			"tip_id": 307,
+			"display_count": 1,
+			"variants_seen": null
+		}
+	]
+}
